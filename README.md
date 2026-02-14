@@ -44,7 +44,5 @@ Se simula el trabajo colaborativo entre dos estudiantes mediante el uso de ramas
 
 ---
 
-##  Archivo principal
 
-El archivo principal del proyecto es:
 
