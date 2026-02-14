@@ -10,7 +10,11 @@ Se simula el trabajo colaborativo entre dos estudiantes mediante el uso de ramas
 ##  Integrantes
 
 - **Julian Ramirez** → Desarrollo del Header
+<<<<<<< HEAD
 - **Carlos Andres arroyave** → Desarrollo del Footer
+=======
+- **Carlos andres arroyave** → Desarrollo del Footer
+>>>>>>> 1f6397bb9d1e083d67326578a8ce18a76e86d3eb
 
 
 
