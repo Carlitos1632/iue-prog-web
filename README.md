@@ -7,10 +7,10 @@ Se simula el trabajo colaborativo entre dos estudiantes mediante el uso de ramas
 
 
 
-## 👨 Integrantes simulados
+##  Integrantes
 
-- **Estudiante A** → Desarrollo del Header
-- **Estudiante B** → Desarrollo del Footer
+- **Julian Ramirez** → Desarrollo del Header
+- **Carlos andres arroyave** → Desarrollo del Footer
 
 
 
